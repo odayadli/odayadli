@@ -7,12 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/odayadli?tab=repositories](https://github.com/odayadli?tab=repositories)
 
-- 💬 Ask me about **Rails**
-
-- 📫 How to reach me **adlioday@gmail.com**
-
-- 📄 Know about my experiences [https://odayadli.github.io/resume/](https://odayadli.github.io/resume/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/odayasaleh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="odayasaleh" height="30" width="40" /></a>
